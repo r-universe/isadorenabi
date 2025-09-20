@@ -1,9 +1,10 @@
 {
   "id": 86548024,
   "created_at": "2025-09-18T19:51:27.000Z",
-  "repository_selection": "all",
+  "repository_selection": "selected",
   "permissions": {
     "metadata": "read",
     "statuses": "write"
-  }
+  },
+  "repositories": ["isadorenabi.r-universe.dev"]
 }
