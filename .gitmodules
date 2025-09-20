@@ -1,4 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/isadorenabi/isadorenabi.r-universe.dev
 	branch = HEAD
+[submodule "BayesianDisaggregation"]
+	path = BayesianDisaggregation
+	url = https://github.com/IsadoreNabi/BayesianDisaggregation
+[submodule "EconCausal"]
+	path = EconCausal
+	url = https://github.com/IsadoreNabi/EconCausal
+[submodule "topologyR"]
+	path = topologyR
+	url = https://github.com/IsadoreNabi/topologyR
