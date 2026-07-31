@@ -8,6 +8,33 @@
 [submodule "EconCausal"]
 	path = EconCausal
 	url = https://github.com/IsadoreNabi/EconCausal
+[submodule "EmpiricalDynamics"]
+	path = EmpiricalDynamics
+	url = https://github.com/IsadoreNabi/EmpiricalDynamics
+[submodule "HTDV"]
+	path = HTDV
+	url = https://github.com/IsadoreNabi/HTDV
+[submodule "RegimeChange"]
+	path = RegimeChange
+	url = https://github.com/IsadoreNabi/RegimeChange
+[submodule "SignalY"]
+	path = SignalY
+	url = https://github.com/IsadoreNabi/SignalY
+[submodule "bayesianOU"]
+	path = bayesianOU
+	url = https://github.com/IsadoreNabi/bayesianOU
+[submodule "bivarhr"]
+	path = bivarhr
+	url = https://github.com/IsadoreNabi/bivarhr
+[submodule "convergenceDFM"]
+	path = convergenceDFM
+	url = https://github.com/IsadoreNabi/convergenceDFM
+[submodule "gdpar"]
+	path = gdpar
+	url = https://github.com/IsadoreNabi/gdpar
 [submodule "topologyR"]
 	path = topologyR
 	url = https://github.com/IsadoreNabi/topologyR
+[submodule "valueprhr"]
+	path = valueprhr
+	url = https://github.com/IsadoreNabi/valueprhr
